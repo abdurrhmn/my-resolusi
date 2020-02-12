@@ -3,3 +3,4 @@ My Resolusi
 - Konsisten mempelajari dan berlatih HTML serta CSS
 - Mengerjakan beberapa project kecil
 - Berlatih untuk mendesain suatu tampilan web hingga mobile phone
+- Membuat web portofolio sendiri
